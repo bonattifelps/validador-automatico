@@ -22,3 +22,16 @@ Este repositório apresenta um **validador automático** desenvolvido para ser u
 - **Big Data:** Databricks, SparkSQL  
 - **Notificação:** pymsteams (Microsoft Teams Webhook)  
 - **Manipulação de Dados:** Pandas, PySpark DataFrames
+
+## 📌 **Benefícios do Validador**  
+✅ **Automação do processo de validação**, evitando inconsistências nos dashboards.  
+✅ **Identificação de outliers em tempo real**, reduzindo necessidade de correções manuais.  
+✅ **Integração direta com Microsoft Teams**, facilitando a comunicação da equipe.  
+✅ **Flexível e escalável**, podendo ser ajustado para outros cenários.  
+
+---
+
+### 🚀 **Como Usar**  
+1️⃣ Configure um **webhook** do Microsoft Teams para receber as notificações.  
+2️⃣ Adapte a **consulta SQL** conforme a base de dados utilizada.  
+3️⃣ Execute o código no **Databricks** ou outro ambiente compatível com PySpark. 
