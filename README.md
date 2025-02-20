@@ -96,3 +96,6 @@ O validador funciona em quatro etapas principais:
 3. **Execute o Código:**
    - Execute o código no **Databricks** ou outro ambiente compatível com PySpark.
 
+## 💻 Autor
+
+- **Felipe Bonatti** - [GitHub](https://github.com/felipesbonatti) | [LinkedIn](https://www.linkedin.com/in/felipebsdelima)
